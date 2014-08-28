@@ -1,0 +1,19 @@
+{
+  "name": "pure-grids",
+  "version": "0.0.0",
+  "description": "Grids for BEM projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/floatdrop/pure-grids.git"
+  },
+  "author": "Vsevolod Strukchinsky <floatdrop@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/floatdrop/pure-grids/issues"
+  },
+  "homepage": "https://github.com/floatdrop/pure-grids"
+}
